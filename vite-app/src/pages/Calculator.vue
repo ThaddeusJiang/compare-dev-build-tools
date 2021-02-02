@@ -3,7 +3,10 @@
     <h1>Counter</h1>
 
     <counter />
-
+    <counter />
+    <counter />
+    <counter />
+    <counter />
     <router-link to="/">Home</router-link>
     &nbsp;
     <router-link to="/About">About</router-link>
